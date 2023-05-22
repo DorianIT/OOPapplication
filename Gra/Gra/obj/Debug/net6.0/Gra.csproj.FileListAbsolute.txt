@@ -1,0 +1,15 @@
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.csproj.AssemblyReference.cache
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.AssemblyInfoInputs.cache
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.AssemblyInfo.cs
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.csproj.CoreCompileInputs.cache
+D:\OOP app\Gra\Gra\bin\Debug\net6.0\Gra.exe
+D:\OOP app\Gra\Gra\bin\Debug\net6.0\Gra.deps.json
+D:\OOP app\Gra\Gra\bin\Debug\net6.0\Gra.runtimeconfig.json
+D:\OOP app\Gra\Gra\bin\Debug\net6.0\Gra.dll
+D:\OOP app\Gra\Gra\bin\Debug\net6.0\Gra.pdb
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.dll
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\refint\Gra.dll
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.pdb
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\Gra.genruntimeconfig.cache
+D:\OOP app\Gra\Gra\obj\Debug\net6.0\ref\Gra.dll
